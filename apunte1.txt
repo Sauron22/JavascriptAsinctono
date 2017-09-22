@@ -1,0 +1,12 @@
+Histrioa Event Loop 
+executes Code on Event Loop
+el event loop es un ciclo se ejecuta 
+en un ciclo 
+todo 
+las funciones o el código son colocados
+la pila de llamada 
+es una memoria que pone el orden de las funciones o codigo 
+las ejecuta segun llegan 
+al  pila 
+event handlers ponen codigo en  la pila de llamda 
+
